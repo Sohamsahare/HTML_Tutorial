@@ -1,7 +1,10 @@
 a{
-	color: #d4e1ba;
+	color: #00075B;
 	text-decoration-line: none;
 }
 h1{
 	font-family: sans-serif;
+}
+div{
+	margin: auto;
 }
