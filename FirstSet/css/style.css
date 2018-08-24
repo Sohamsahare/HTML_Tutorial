@@ -6,5 +6,7 @@ h1{
 	font-family: sans-serif;
 }
 div{
-	margin: auto;
+	width: 500px ;
+	background: #EEFF80;
+	margin : auto ;
 }
