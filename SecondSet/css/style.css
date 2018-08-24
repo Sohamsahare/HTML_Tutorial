@@ -1,0 +1,30 @@
+.wrap {
+	width: 80%;
+	min-width: 500px;
+	background-color: yellow;
+}
+
+.content {
+	width:80%;
+	float:left;
+	background-color: #FF9C04;
+	margin:auto;
+}
+
+aside {
+	width: 20%;
+	float:right;
+	background-color: #FFB87E;
+}
+
+aside ul{
+	list-style: none;
+	padding-left: 18px;
+}
+
+aside, .content {
+	height : 500px;
+}
+footer{
+	clear: both;
+}
